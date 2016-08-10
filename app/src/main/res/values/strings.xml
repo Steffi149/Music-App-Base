@@ -1,0 +1,9 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Podcast Pro</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="search">Search</string>
+    <string name="podcast_details">Podcast Details</string>
+    <string name="trending_podcasts">Trending Podcasts</string>
+
+</resources>
